@@ -982,36 +982,58 @@ https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTl
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 #音乐频道
-#EXTINF:-1,电音电台
-http://play.redefine.ltd/Stream3/FM1058-3.m3u8
-#EXTINF:-1,古典音乐台
-http://play.redefine.ltd/Stream2/FM1058-2.m3u8
-#EXTINF:-1,河南音乐广播
-https://stream.hndt.com/live/yinyue/playlist.m3u8
-#EXTINF:-1,CRI轻松调频
-http://sk.cri.cn/915.m3u8
-#EXTINF:-1,台北广播电台FM93.1
-https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
-#EXTINF:-1,台北广播电台AM1134
-https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
-#EXTINF:-1,飞特电台
-https://phate.io/listen.ogg
-#EXTINF:-1,中广音乐网
-http://stream.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1,中广流行网
-http://stream.rcs.revma.com/aw9uqyxy2tzuv
-#EXTINF:-1,飞碟电台
-http://stream.rcs.revma.com/em90w4aeewzuv
-#EXTINF:-1,澳门电台
-https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8
-#EXTINF:-1,宝岛联播网|宝岛新声
-http://stream.superfm99-1.com.tw:8555
-#EXTINF:-1,宝岛联播网|大千电台
-http://stream.superfm99-1.com.tw:8554
-#EXTINF:-1,RTI音乐
-https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
-#EXTINF:-1,台湾古典音乐台
-http://59.120.88.155:8000/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/亚洲热歌台.png" group-title="网络广播",AsiaFM 亚洲热歌台
+http://asiafm.net:8000/asiafmhot
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/亚洲音乐台.png" group-title="网络广播",AsiaFM 亚洲音乐台
+http://asiafm.hk:8000/asiafm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/亚洲经典台.png" group-title="网络广播",AsiaFM 亚洲经典台
+http://goldfm.cn:8000/goldfm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/亚洲天空台.png" group-title="网络广播",AsiaFM 亚洲天空台
+http://funradio.cn:8000/funradio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/亚洲HD音乐台.png" group-title="网络广播",AsiaFM HD音乐台
+http://asiafm.hk:8000/asiahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/亚洲粤语台.png" group-title="网络广播",AsiaFM 亚洲粤语台
+http://asiafm.net:8000/asiafmyyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/22/4fcfe65f-001c-4101-b13b-3964aa6ac796.png" group-title="网络广播",沐耳电台
+http://mplay.muearfm.cn/muearfm/fm666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553159793824.jpg" group-title="网络广播",动感音悦台
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播",潮流音悦台
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241637972573.png" group-title="网络广播",警广之声
+http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png" group-title="网络广播",天籁之音-经典正流行
+http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png" group-title="网络广播",天籁之音 Hi-Fi Radio
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/d3f12c8e93c7506d60198c3484dbeb93.png" group-title="网络广播",天籁之音-国风
+http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/4b072cf36c1f334220c6926eff4fbe51.png" group-title="网络广播",民谣 蓝调
+http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/d64294d9f14ed39075cbb148f229d833.png" group-title="网络广播",舞迷心窍
+http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7cb3fc8f0bd8f94cb96fb35e12fbca3.png" group-title="网络广播",心灵音乐馆
+http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241973460940.png" group-title="网络广播",80后音悦台
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241941253315.png" group-title="网络广播",经典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553160555011.jpg" group-title="网络广播",格莱美音乐台
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/快乐卷卷猫.png" group-title="网络广播",卷卷猫电台
+http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/22/1513910910582954.png" group-title="网络广播",有声文摘
+http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553157038145.jpg" group-title="网络广播",安全百科
+http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241902428118.png" group-title="网络广播",民谣音乐台
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241848889285.png" group-title="网络广播",天籁古典
+http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241881377763.png" group-title="网络广播",摇滚天空台
+http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498187765828570.png" group-title="网络广播",国乐悠扬
+http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 
 #国际频道
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png" group-title="国际频道",CNN
